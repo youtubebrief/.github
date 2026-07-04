@@ -1,6 +1,7 @@
 # 🎬 Youtubebrief
 
 **Browser for account and billing. Terminal for clean YouTube briefs.**
+
 Youtubebrief builds CLI/MCP tools that turn explicit YouTube URLs into structured, timestamp-backed Markdown for research, notes, DevRel handoffs, and local AI-agent workflows.
 
 ## 🚀 Start here
